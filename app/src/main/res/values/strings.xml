@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Care+</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password must be a minimum of 8 characters</string>
+    <string name="auth_failed">Cannot sign in, email or password is incorrect</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not registered? Click to sign up</string>
+    <string name="btn_link_to_login">Already registered? Click to login</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="btn_sign_up">Create Account</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_info">Learn More</string>
+    <string name="title_activity_home">Homepage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

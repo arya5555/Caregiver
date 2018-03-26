@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297232230175",
+    "firebase_url": "https://care-d6ce5.firebaseio.com",
+    "project_id": "care-d6ce5",
+    "storage_bucket": "care-d6ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297232230175:android:63621b40dcccee02",
+        "android_client_info": {
+          "package_name": "com.care.technovation.care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297232230175-ooihk8kjf219pehmajr5vfdje6hqf4pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo6Rb09JI_RMlgcrb-DT3L0S2kBfOV200"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

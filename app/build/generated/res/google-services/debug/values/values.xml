@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">297232230175-ooihk8kjf219pehmajr5vfdje6hqf4pl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://care-d6ce5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">297232230175</string>
+    <string name="google_api_key" translatable="false">AIzaSyCo6Rb09JI_RMlgcrb-DT3L0S2kBfOV200</string>
+    <string name="google_app_id" translatable="false">1:297232230175:android:63621b40dcccee02</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCo6Rb09JI_RMlgcrb-DT3L0S2kBfOV200</string>
+    <string name="google_storage_bucket" translatable="false">care-d6ce5.appspot.com</string>
+    <string name="project_id" translatable="false">care-d6ce5</string>
+</resources>
