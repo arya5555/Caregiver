@@ -4,4 +4,10 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="logo_w_h">100dp</dimen>
+    <dimen name="listview_parent_h">48dp</dimen>
+    <dimen name="listview_image_padding_s">36dp</dimen>
+    <dimen name="listview_image_padding_e">8dp</dimen>
+    <dimen name="profile_image_w_h">60dp</dimen>
+    <dimen name="normal_fab_w_h">48dp</dimen>
+    <dimen name="small_fab_w_h">36dp</dimen>
 </resources>

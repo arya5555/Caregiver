@@ -3,6 +3,7 @@
     package="com.care.technovation.care">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -21,13 +22,13 @@
         <activity android:name=".SignupActivity" />
         <activity
             android:name=".HomeActivity"
-            android:label="@string/title_activity_home"
-            android:parentActivityName=".MainActivity">
+            android:label="@string/title_activity_home">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.care.technovation.care.MainActivity" />
         </activity>
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".NewRecipientActivity"></activity>
     </application>
 
 </manifest>

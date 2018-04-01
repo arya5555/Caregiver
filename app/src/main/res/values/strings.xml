@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Care+</string>
     <string name="action_sign_in_short">Register</string>
-    <string name="email">Email</string>
+    <string name="hint_name">Name</string>
     <string name="minimum_password">Password must be a minimum of 8 characters</string>
     <string name="auth_failed">Cannot sign in, email or password is incorrect</string>
     <string name="remove_user">Remove user</string>
@@ -20,8 +20,15 @@
     <string name="btn_sign_up">Create Account</string>
     <string name="btn_sign_in">Sign In</string>
     <string name="btn_info">Learn More</string>
+    <string name="btn_choose_image">Upload profile image</string>
     <string name="title_activity_home">Homepage</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_feed">Newsfeed</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_stats">Stats</string>
+    <string name="fab_label_new_recipient">New care recipient</string>
+    <string name="fab_label_family">Add family member</string>
+    <string name="fab_label_existing_recipient">Add existing care recipient</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_birthdate">Birthdate</string>
 </resources>

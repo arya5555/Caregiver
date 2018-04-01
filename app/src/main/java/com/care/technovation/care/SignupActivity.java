@@ -14,13 +14,18 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 public class SignupActivity extends AppCompatActivity {
 
-    private EditText inputEmail, inputPassword;
+    private EditText inputEmail, inputPassword, inputName;
     private Button btnSignIn, btnSignUp;
     private ProgressBar progressBar;
     private FirebaseAuth auth;
+    final FirebaseDatabase database = FirebaseDatabase.getInstance();
+    FirebaseUser currentUser;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,6 +38,7 @@ public class SignupActivity extends AppCompatActivity {
         btnSignUp = (Button) findViewById(R.id.SignUpButton);
         inputEmail = (EditText) findViewById(R.id.email);
         inputPassword = (EditText) findViewById(R.id.password);
+        inputName = (EditText) findViewById(R.id.name);
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
     }
 
@@ -48,7 +54,14 @@ public class SignupActivity extends AppCompatActivity {
     protected void createUser() {
         String email = inputEmail.getText().toString().trim();
         String password = inputPassword.getText().toString().trim();
+        final String name = inputName.getText().toString().trim();
+
         final boolean success = false;
+
+        if (TextUtils.isEmpty(name)) {
+            Toast.makeText(getApplicationContext(), "Name field is blank", Toast.LENGTH_SHORT).show();
+            return;
+        }
 
         if (TextUtils.isEmpty(email)) {
             Toast.makeText(getApplicationContext(), "Email field is blank", Toast.LENGTH_SHORT).show();
@@ -76,6 +89,12 @@ public class SignupActivity extends AppCompatActivity {
                             Toast.makeText(SignupActivity.this, "Authentication failed." + task.getException(),
                                     Toast.LENGTH_SHORT).show();
                         } else {
+                            currentUser = FirebaseAuth.getInstance().getCurrentUser();
+                            DatabaseReference ref = database.getReference("Users").push();
+                            ref.setValue(currentUser.getUid());
+                            ref = ref.child("Name");
+                            ref.setValue(name);
+
                             Intent intent = new Intent(SignupActivity.this, HomeActivity.class);
                             startActivity(intent);
                         }

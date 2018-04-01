@@ -1,4 +1,4 @@
-#Mon Mar 26 16:13:27 EDT 2018
-base.0=C\:\\Users\\Arya Stevinson\\Documents\\Care\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+#Sun Apr 01 10:32:41 EDT 2018
+base.0=C\:\\Users\\Arya Stevinson\\Documents\\Care\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\62
 path.0=classes.dex
 renamed.0=classes.dex

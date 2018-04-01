@@ -1,25 +1,31 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-34:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\2934481554d73824f9330918ba9b3843\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\9b3ed78bf622336db3416cc48c12d32c\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\7025f853bce7fe8de3bc07644d6781c9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\021a07575b904e09f057b154e8d6d87e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\8bd7eb4c1b8eb79621c9e8e9639e1c99\AndroidManifest.xml:2:1-8:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\7c5b8d89c0d03550a01fc918ac5525f7\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7e13fd1b05247bab2d563d97008d2a30\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fa24222ee5c493faae3eb5449e10f4c0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\6d6590d42f31d8381011ea6a0576decf\AndroidManifest.xml:17:1-54:12
 MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a199bc689680d775deea6a8b11f74ab0\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\4989e42589123a7cc1aaea8a4e7ecd97\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\6898c7a6770fde56522b70bd70026d68\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\88dec74baf6b538ebffedf86ad4b60c6\AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\965754b98299ce2a48078df2c75a54fb\AndroidManifest.xml:17:1-59:12
 MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\53d8276b4593447eee04a383d00e79dd\AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\3feb4d206b335c021cf18a9a76d71a09\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\3491e6cd217a4f7f51285f3fee7ad0d5\AndroidManifest.xml:2:1-8:12
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd6941af064e59cf8d4ba846e2b2fe5d\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\1a78b3cf68340f2a0fd2a8b860ab9298\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\d8001364f256cdc2dcc454dfcd528ac9\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\0565c7a0dbe7381a65b5d8be1c198852\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\c13afb3d20646f099aba3f9f578d5baf\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8dc62cca3ac09c0e28598280d4528b51\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\df70395eb95f58c0f3b3727ed0cf1c44\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f4b8be0ffa00b055500b490cc0be828b\AndroidManifest.xml:17:1-28:12
@@ -36,23 +42,25 @@ MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Us
 MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\8102c83f9895d1cc1efd0f44763618da\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\992ee2e932e776a0c4e0f1e275bd725e\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\7e580842fb88907cd7a9a7e4dfdaab59\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e6c20054e8d123741516bbf672acadba\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\f1dfd556153fec97588c23c0c056c08e\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\19b22f286f6be8e06e780fe98896c800\AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b88eb0fe264869a48c5aa9c93e77a8b2\AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\3cacabcb3125f517f9f97a9f4bcdf44a\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-34:12
 		INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:1-34:12
 		INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:2:11-69
@@ -70,8 +78,12 @@ MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Arya Stevinson\.g
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\965754b98299ce2a48078df2c75a54fb\AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:6:22-78
 application
-ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:7:5-31:19
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:8:5-32:19
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\2934481554d73824f9330918ba9b3843\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\2934481554d73824f9330918ba9b3843\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\9b3ed78bf622336db3416cc48c12d32c\AndroidManifest.xml:22:5-30:19
@@ -104,6 +116,10 @@ MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Arya Ste
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\1a78b3cf68340f2a0fd2a8b860ab9298\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\d8001364f256cdc2dcc454dfcd528ac9\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\d8001364f256cdc2dcc454dfcd528ac9\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\0565c7a0dbe7381a65b5d8be1c198852\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\0565c7a0dbe7381a65b5d8be1c198852\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\c13afb3d20646f099aba3f9f578d5baf\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\c13afb3d20646f099aba3f9f578d5baf\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8dc62cca3ac09c0e28598280d4528b51\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8dc62cca3ac09c0e28598280d4528b51\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\df70395eb95f58c0f3b3727ed0cf1c44\AndroidManifest.xml:22:5-26:19
@@ -136,6 +152,10 @@ MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\992ee2e932e776a0c4e0f1e275bd725e\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\7e580842fb88907cd7a9a7e4dfdaab59\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\7e580842fb88907cd7a9a7e4dfdaab59\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e6c20054e8d123741516bbf672acadba\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e6c20054e8d123741516bbf672acadba\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\f1dfd556153fec97588c23c0c056c08e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\f1dfd556153fec97588c23c0c056c08e\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\19b22f286f6be8e06e780fe98896c800\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\19b22f286f6be8e06e780fe98896c800\AndroidManifest.xml:5:5-20
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b88eb0fe264869a48c5aa9c93e77a8b2\AndroidManifest.xml:24:5-28:19
@@ -143,43 +163,41 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Arya Stevinson\.grad
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\3cacabcb3125f517f9f97a9f4bcdf44a\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\3cacabcb3125f517f9f97a9f4bcdf44a\AndroidManifest.xml:5:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.care.technovation.care.MainActivity
-ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:15:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.care.technovation.care.SignupActivity
-ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:21:9-52
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:22:9-52
 	android:name
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:21:19-49
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:22:19-49
 activity#com.care.technovation.care.HomeActivity
-ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:22:9-29:20
-	android:parentActivityName
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:25:13-55
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:label
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:24:13-56
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:25:13-56
 	android:name
-		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:23:13-41
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:24:13-41
 meta-data#android.support.PARENT_ACTIVITY
 ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:26:13-28:75
 	android:value
@@ -187,9 +205,13 @@ ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.x
 	android:name
 		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:27:17-63
 activity#com.care.technovation.care.LoginActivity
-ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:30:9-60
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:30:9-51
 	android:name
 		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:30:19-48
+activity#com.care.technovation.care.NewRecipientActivity
+ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:31:9-67
+	android:name
+		ADDED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml:31:19-55
 uses-sdk
 INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Arya Stevinson\Documents\Care\app\src\main\AndroidManifest.xml
@@ -200,6 +222,10 @@ MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Arya Stevinson\.
 MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\9b3ed78bf622336db3416cc48c12d32c\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\7025f853bce7fe8de3bc07644d6781c9\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-gcm:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.8.0.aar\7025f853bce7fe8de3bc07644d6781c9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\021a07575b904e09f057b154e8d6d87e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\021a07575b904e09f057b154e8d6d87e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\8bd7eb4c1b8eb79621c9e8e9639e1c99\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\8bd7eb4c1b8eb79621c9e8e9639e1c99\AndroidManifest.xml:6:5-44
 MERGED from [com.android.support:design:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\7c5b8d89c0d03550a01fc918ac5525f7\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\7c5b8d89c0d03550a01fc918ac5525f7\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\7e13fd1b05247bab2d563d97008d2a30\AndroidManifest.xml:21:5-23:78
@@ -212,6 +238,8 @@ MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Arya Stev
 MERGED from [com.google.android.gms:play-services-iid:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.8.0.aar\a199bc689680d775deea6a8b11f74ab0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\4989e42589123a7cc1aaea8a4e7ecd97\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\4989e42589123a7cc1aaea8a4e7ecd97\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\6898c7a6770fde56522b70bd70026d68\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\6898c7a6770fde56522b70bd70026d68\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\88dec74baf6b538ebffedf86ad4b60c6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\88dec74baf6b538ebffedf86ad4b60c6\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\965754b98299ce2a48078df2c75a54fb\AndroidManifest.xml:20:5-44
@@ -220,12 +248,18 @@ MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Arya Stevinson
 MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\53d8276b4593447eee04a383d00e79dd\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\3feb4d206b335c021cf18a9a76d71a09\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\3feb4d206b335c021cf18a9a76d71a09\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\3491e6cd217a4f7f51285f3fee7ad0d5\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\3491e6cd217a4f7f51285f3fee7ad0d5\AndroidManifest.xml:6:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd6941af064e59cf8d4ba846e2b2fe5d\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\dd6941af064e59cf8d4ba846e2b2fe5d\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\1a78b3cf68340f2a0fd2a8b860ab9298\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\1a78b3cf68340f2a0fd2a8b860ab9298\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\d8001364f256cdc2dcc454dfcd528ac9\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-gcm-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.8.0.aar\d8001364f256cdc2dcc454dfcd528ac9\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\0565c7a0dbe7381a65b5d8be1c198852\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\0565c7a0dbe7381a65b5d8be1c198852\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\c13afb3d20646f099aba3f9f578d5baf\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-11.8.0.aar\c13afb3d20646f099aba3f9f578d5baf\AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8dc62cca3ac09c0e28598280d4528b51\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8dc62cca3ac09c0e28598280d4528b51\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\df70395eb95f58c0f3b3727ed0cf1c44\AndroidManifest.xml:20:5-44
@@ -258,6 +292,10 @@ MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\992ee2e932e776a0c4e0f1e275bd725e\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\7e580842fb88907cd7a9a7e4dfdaab59\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-iid-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.8.0.aar\7e580842fb88907cd7a9a7e4dfdaab59\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e6c20054e8d123741516bbf672acadba\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\e6c20054e8d123741516bbf672acadba\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\f1dfd556153fec97588c23c0c056c08e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-11.8.0.aar\f1dfd556153fec97588c23c0c056c08e\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\19b22f286f6be8e06e780fe98896c800\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\19b22f286f6be8e06e780fe98896c800\AndroidManifest.xml:4:5-43
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Arya Stevinson\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b88eb0fe264869a48c5aa9c93e77a8b2\AndroidManifest.xml:20:5-22:41

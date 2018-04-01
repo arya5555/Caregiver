@@ -9,6 +9,7 @@
         android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <!-- Required by older versions of Google Play services to create GCM registration tokens -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
@@ -40,13 +41,13 @@
         <activity android:name="com.care.technovation.care.SignupActivity" />
         <activity
             android:name="com.care.technovation.care.HomeActivity"
-            android:label="@string/title_activity_home"
-            android:parentActivityName="com.care.technovation.care.MainActivity" >
+            android:label="@string/title_activity_home" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.care.technovation.care.MainActivity" />
         </activity>
         <activity android:name="com.care.technovation.care.LoginActivity" />
+        <activity android:name="com.care.technovation.care.NewRecipientActivity" />
         <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
             android:excludeFromRecents="true"
